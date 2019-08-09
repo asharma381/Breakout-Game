@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=MyWorld
+comment0.text=\n\ Write\ a\ description\ of\ class\ MyWorld\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=MyWorld()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=x\ y\ length\ height\ type
+comment3.target=void\ createRows(int,\ int,\ int,\ int,\ int)
+comment4.params=x\ y\ length\ height\ type\ type2
+comment4.target=void\ createRowsWithSpace(int,\ int,\ int,\ int,\ int,\ int)
+comment5.params=x\ y\ length\ type
+comment5.target=void\ createOneRow(int,\ int,\ int,\ int)
+comment6.params=x\ y\ type
+comment6.target=void\ createOneBrick(int,\ int,\ int)
+numComments=7
